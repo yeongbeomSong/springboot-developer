@@ -13,11 +13,6 @@ spring:
       client:
         registration:
           google:
-            client-id: 6636..
-            client-secret: GOCS..
             scope:
               - email
               - profile
-jwt:
-  issuer: ajufresh@gmail.com
-  secret_key: study-springboot
